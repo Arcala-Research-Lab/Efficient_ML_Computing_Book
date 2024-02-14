@@ -1,5 +1,4 @@
-# MACHINE LEARNING SYSTEMS with TinyML
-
+# Efficient ML Computing
 <p align="center">
   <img src="cover-image.png" height="400" alt="Cover Image"/>
 </p>
