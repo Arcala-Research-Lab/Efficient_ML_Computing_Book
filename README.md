@@ -10,7 +10,7 @@
 <a href="https://github.com/harvard-edge/cs249r_book"><img src="https://github.com/harvard-edge/cs249r_book/actions/workflows/markdown_linter.yml/badge.svg" alt="Markdown Linter Status Badge"/></a>
 </p>
 
-Welcome to the collaborative book repository for students of CS249r: Tiny Machine Learning at Harvard! This repository
+Welcome to the collaborative book repository for students of Efficient ML Computing at UC Irvine! This repository
 contains the source files of chapters and sections written by your peers. We're excited to see your contributions!
 
 ## Contributing
